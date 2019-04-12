@@ -6,3 +6,7 @@ If you don't have access to the article, ping Martin Hwasser.
 
 ## How to get data
 https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation
+
+## What to look at
+
+The [Classification notebook](Classification.ipynb) introduces the paper and dataset and performs classification. The [Regression notebook](Regression.ipynb) predicts cycle life.
